@@ -30,9 +30,6 @@ s.framework = "UIKit"
 # 8
 s.source_files = "NAWormySegment/**/*.{swift}"
 
-# 9
-s.resources = "NAWormySegment/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
-
 # 10
 s.swift_version = "5"
 

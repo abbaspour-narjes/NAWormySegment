@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 //! Project version number for NAWormySegment.
-FOUNDATION_EXPORT double NAWormySegmentVersionNumber;
+FOUNDATION_EXPORT double cVersionNumber;
 
 //! Project version string for NAWormySegment.
 FOUNDATION_EXPORT const unsigned char NAWormySegmentVersionString[];

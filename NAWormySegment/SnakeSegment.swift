@@ -1,6 +1,6 @@
 //
-//  SnakeSegment.swift
-//  SnakeSegment
+//  NAWormySegment.swift
+//  NAWormySegment
 //
 //  Created by anna on 1/16/1399 AP.
 //  Copyright © 1399 abbaspour. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class SnakeSegment : UIControl{
+@IBDesignable class NAWormySegment : UIControl{
     
     @IBInspectable var textColor:UIColor = UIColor.blue{
         didSet{
