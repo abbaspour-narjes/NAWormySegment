@@ -1,3 +1,5 @@
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/NAWormySegment.svg)](https://img.shields.io/cocoapods/v/NAWormySegment.svg)
+[![Platform](https://img.shields.io/cocoapods/p/NAWormySegment.svg?style=flat)](http://cocoadocs.org/docsets/NAWormySegment)
 # NAWormySegment 
 
 NAWormySegment is custom created UIControl that acts like UISegment with Wormy move animation.
