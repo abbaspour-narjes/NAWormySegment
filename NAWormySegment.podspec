@@ -12,7 +12,8 @@ s.license = { :type => "abbaspour", :file => "LICENSE" }
 s.author = { "Abbaspour" => "abbaspour_narjes@hotmail.com" }
 s.ios.deployment_target = '13.2'
 s.swift_version = "5"
-s.source_files = "NAWormySegment/**/*.{swift}"
+s.source = { :git => "https://github.com/abbaspour-narjes/NAWormySegment.git",
+             :tag => "#{s.version}" }
 s.source_files = "NAWormySegment/**/*.{swift}"
 s.requires_arc = true
 
