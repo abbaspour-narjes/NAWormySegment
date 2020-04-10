@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		95E5A31F243CD6C500E4612C /* NAWormySegment.h in Headers */ = {isa = PBXBuildFile; fileRef = 95E5A31D243CD6C500E4612C /* NAWormySegment.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		95E5A326243CD70100E4612C /* SnakeSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E5A325243CD70100E4612C /* SnakeSegment.swift */; };
+		95E5A326243CD70100E4612C /* NAWormySegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E5A325243CD70100E4612C /* NAWormySegment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		95E5A31A243CD6C500E4612C /* NAWormySegment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NAWormySegment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		95E5A31D243CD6C500E4612C /* NAWormySegment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NAWormySegment.h; sourceTree = "<group>"; };
 		95E5A31E243CD6C500E4612C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		95E5A325243CD70100E4612C /* SnakeSegment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnakeSegment.swift; sourceTree = "<group>"; };
+		95E5A325243CD70100E4612C /* NAWormySegment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NAWormySegment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				95E5A31D243CD6C500E4612C /* NAWormySegment.h */,
-				95E5A325243CD70100E4612C /* SnakeSegment.swift */,
+				95E5A325243CD70100E4612C /* NAWormySegment.swift */,
 				95E5A31E243CD6C500E4612C /* Info.plist */,
 			);
 			path = NAWormySegment;
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95E5A326243CD70100E4612C /* SnakeSegment.swift in Sources */,
+				95E5A326243CD70100E4612C /* NAWormySegment.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
