@@ -1,9 +1,6 @@
 Pod::Spec.new do |s|
 
 
-s.platform = :ios
-
-
 s.name = "NAWormySegment"
 s.version = "0.1.0"
 s.summary = "NAWormySegment is UIControl that acts like segment with animation(Wormy move)."
